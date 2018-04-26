@@ -17,12 +17,12 @@
         android:paddingLeft="15dp"
         android:paddingRight="15dp" >
         <EditText
-            android:id="@+id/edit_user"
+            android:id="@+id/edit_mssv"
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:hint="Mã số sinh viên"/>
         <EditText
-            android:id="@+id/edit_passwork"
+            android:id="@+id/edit_pass"
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:hint="Mật khẩu"/>

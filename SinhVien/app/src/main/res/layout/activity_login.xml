@@ -24,7 +24,7 @@
             android:layout_height="50dp"
             android:hint="Email hoặc điện thoại"/>
         <EditText
-            android:id="@+id/edit_passwork"
+            android:id="@+id/edit_password"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:hint="Mật khẩu"/>

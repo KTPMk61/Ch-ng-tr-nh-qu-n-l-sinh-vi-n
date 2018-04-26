@@ -10,21 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-
-        </activity>
-        <activity android:name=".ActivityLogin" >
-
-        </activity>
-        <activity android:name=".ActivitySignin" >
-
-        </activity>
-        <activity android:name=".ActivityLoginSV">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ActivityLogin"></activity>
+        <activity android:name=".ActivitySignin"></activity>
+        <activity android:name=".ActivityLoginSV">
+        </activity>
+        <activity android:name=".TeaActivity"></activity>
     </application>
 
 </manifest>
