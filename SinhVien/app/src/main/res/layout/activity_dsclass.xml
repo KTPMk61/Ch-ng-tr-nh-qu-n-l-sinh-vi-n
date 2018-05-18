@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".DSClassActivity">
+
+    <TextView
+        android:id="@+id/class_name"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="  DS Lớp: "
+        android:textSize="19sp"
+        android:gravity="center_vertical"
+        android:textColor="#000000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        android:background="#05af21">
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:text=" MSSV"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="|"
+            android:textColor="#ffffff"
+            android:textSize="30sp"/>
+        <TextView
+            android:layout_width="190sp"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            android:text="Họ và tên"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="|"
+            android:textColor="#ffffff"
+            android:textSize="30sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:text="Ngày sinh"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/listSV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+
+</LinearLayout>
