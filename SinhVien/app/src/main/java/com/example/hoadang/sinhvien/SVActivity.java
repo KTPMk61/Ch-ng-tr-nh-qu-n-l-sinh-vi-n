@@ -26,5 +26,14 @@ public class SVActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        btn_point.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SVActivity.this, PointActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

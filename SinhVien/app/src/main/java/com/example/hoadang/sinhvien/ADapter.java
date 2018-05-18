@@ -7,15 +7,11 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-/**
- * Created by HoaDang on 06/05/2018.
- */
-
-public class aDapter extends BaseAdapter {
+public class ADapter extends BaseAdapter {
 
     private Context context;
 
-    public aDapter( Context context){
+    public ADapter( Context context){
         this.context = context;
     }
 
@@ -40,7 +36,7 @@ public class aDapter extends BaseAdapter {
         final Holder holder;
         View view = convertView;
         if(convertView == null){
-            view = LayoutInflater.from(context).inflate(R.layout.item_listview,null);
+            view = LayoutInflater.from(context).inflate(R.layout.item_view,null);
             holder = new Holder();
             holder.mssv = (TextView) view.findViewById(R.id.mssv);
             holder.date = (TextView) view.findViewById(R.id.date);
@@ -51,7 +47,7 @@ public class aDapter extends BaseAdapter {
         }
         return view;
     }
-    class Holder{
+    private class Holder{
         TextView mssv;
         TextView name;
         TextView date;

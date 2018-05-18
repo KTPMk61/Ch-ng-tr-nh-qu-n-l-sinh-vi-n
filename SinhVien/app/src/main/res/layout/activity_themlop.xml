@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    android:layout_height="match_parent"
+    tools:context=".ThemlopActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/label"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text=""
+        android:textColor="#1b75e2"
+        android:textSize="20sp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:text="Tên môn học: "
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textColor="#000000"/>
+        <EditText
+            android:id="@+id/edit_hp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:background="#ffffff"
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:text="Mã học phần: "
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textColor="#000000"/>
+        <EditText
+            android:id="@+id/edit_code"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:text="Tên lớp học: "
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textColor="#000000"/>
+        <EditText
+            android:id="@+id/edit_class"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="match_parent"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_height="43dp"
+        android:background="#2452a0"
+        android:textColor="#ffffff"
+        android:text="Tạo lớp"
+        android:textAllCaps="false"
+        android:textSize="21sp"/>
+
+</LinearLayout>

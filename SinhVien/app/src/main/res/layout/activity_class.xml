@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context=".ClassActivity">
     <TextView
         android:id="@+id/txt_class"
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="50dp"
         android:gravity="center"
         android:text="DANH SÁCH LỚP"
         android:textSize="23sp"
@@ -20,20 +21,17 @@
     <ListView
         android:id="@+id/listClass"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_above="@id/btn_add"
-        android:layout_below="@id/txt_class">
+        android:layout_height="wrap_content">
     </ListView>
     <Button
-        android:id="@+id/btn_add"
         android:layout_width="match_parent"
         android:layout_height="55dp"
+        android:id="@+id/btn_add"
         android:gravity="center"
-        android:text="DANH SÁCH LỚP"
+        android:text="Thêm lớp"
         android:textSize="23sp"
         android:background="#05af21"
         android:textColor="#ffffff"
         android:textStyle="bold"
         android:layout_alignParentBottom="true"/>
-
-</RelativeLayout>
+</LinearLayout>

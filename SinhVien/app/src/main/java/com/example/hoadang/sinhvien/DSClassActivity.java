@@ -18,8 +18,9 @@ public class DSClassActivity extends AppCompatActivity {
         class_name =(TextView) findViewById(R.id.class_name);
         listSV = (ListView) findViewById(R.id.listSV);
 
-        aDapter adapter = new aDapter(DSClassActivity.this);
+        ADapter adapter = new ADapter(DSClassActivity.this);
         listSV.setAdapter(adapter);
+
 
     }
 }
