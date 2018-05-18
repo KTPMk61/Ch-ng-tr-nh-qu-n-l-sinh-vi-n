@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HoaDang\.android\build-cache\5949748518c2d74e456e9fe33a11f5e31488d581\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HoaDang\.android\build-cache\a3a5a7c300e013478a121583df7633765f1ece98\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HoaDang\.android\build-cache\97f458b0408d449c61613e484758887400efdbc6\output\AndroidManifest.xml:29:5-20
@@ -26,69 +26,57 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HoaDan
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HoaDang\.android\build-cache\88a2b939f18572e75c1875056f6a8abdfb54661d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HoaDang\.android\build-cache\ab1effabc44f03a2b0400e8827da4652d3fc2bb1\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.hoadang.sinhvien.MainActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:12:9-50
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:12:9-14:20
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:12:19-47
 activity#com.example.hoadang.sinhvien.ActivityLogin
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:13:9-51
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:15:9-51
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:13:19-48
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:15:19-48
 activity#com.example.hoadang.sinhvien.ActivitySignin
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:14:9-52
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:16:9-52
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:14:19-49
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:16:19-49
 activity#com.example.hoadang.sinhvien.ActivityLoginSV
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:15:9-53
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:17:9-53
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:15:19-50
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:17:19-50
 activity#com.example.hoadang.sinhvien.TeaActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:16:9-49
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:18:9-49
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:16:19-46
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:18:19-46
 activity#com.example.hoadang.sinhvien.SVActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:17:9-19:20
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:17:19-45
-activity#com.example.hoadang.sinhvien.DSClassActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:20:9-53
-	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:20:19-50
-activity#com.example.hoadang.sinhvien.PointActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:21:9-51
-	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:21:19-48
-activity#com.example.hoadang.sinhvien.ClassActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:22:9-51
-	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:22:19-48
-activity#com.example.hoadang.sinhvien.AddClassActivity
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:23:9-29:20
-	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:23:19-51
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:19:19-45
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.hoadang.sinhvien.DSClassActivity
+ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml:26:19-50
 uses-sdk
-INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HoaDang\.android\build-cache\5949748518c2d74e456e9fe33a11f5e31488d581\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HoaDang\.android\build-cache\a3a5a7c300e013478a121583df7633765f1ece98\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HoaDang\.android\build-cache\97f458b0408d449c61613e484758887400efdbc6\output\AndroidManifest.xml:21:5-23:60
@@ -102,11 +90,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ho
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HoaDang\.android\build-cache\5949748518c2d74e456e9fe33a11f5e31488d581\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HoaDang\AndroidStudioProjects\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HoaDang\Desktop\project\java_project\SinhVien\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HoaDang\.android\build-cache\5949748518c2d74e456e9fe33a11f5e31488d581\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HoaDang\.android\build-cache\a3a5a7c300e013478a121583df7633765f1ece98\output\AndroidManifest.xml:25:5-27:34
